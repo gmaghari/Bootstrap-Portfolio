@@ -1,3 +1,3 @@
 # Bootstrap-Portfolio
 
-http://gmaghari.github.io/bootstrap-portfolio/index.html
+https://gmaghari.github.io/Bootstrap-Portfolio/
